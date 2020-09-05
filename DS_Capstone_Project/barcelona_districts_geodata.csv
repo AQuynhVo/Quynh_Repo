@@ -1,11 +1,76 @@
-District;Latitude;Longitude
-Ciutat Vella;41.380218;2.17319
-Eixample;41.388960;2.16179
-Gràcia;41.402371;2.15641
-Horta-Guinardó;41.418491;2.16770
-Les Corts;41.383500;2.11680
-Nou Barris;41.441631;2.17727
-Sant Andreu;41.435409;2.18982
-Sant Martí;41.418140;2.19933
-Sants-Montjuïc;41.372631;2.15460
-Sarrià-Sant Gervasi;41.401039;2.13940
+Ciutat Vella;La Barceloneta;41.379889; 2.189361 
+Ciutat Vella;El Gòtic;41.382778; 2.176944 
+Ciutat Vella;El Raval;41.379722; 2.168056 
+Ciutat Vella;Sant Pere, Santa Caterina i la Ribera;41.384608; 2.182717 
+Eixample;L'Antiga Esquerra de l'Eixample;41.39; 2.155 
+Eixample;La Nova Esquerra de l'Eixample;41.383389; 2.149 
+Eixample;Dreta de l'Eixample;41.395278; 2.166667 
+Eixample;Fort Pienc;41.395675; 2.183703 
+Eixample;Sagrada Família;41.403561; 2.174347 
+Eixample;Sant Antoni;41.377778; 2.161111 
+Sants-Montjuïc;La Bordeta;41.370494; 2.137097 
+Sants-Montjuïc;la Font de la Guatlla;41.369681; 2.144811 
+Sants-Montjuïc;Hostafrancs;41.375711; 2.143192 
+District;Neighbourhood;Latitude;Longitude
+Sants-Montjuïc;la Marina de Port;41.359583; 2.140972 
+Sants-Montjuïc;la Marina del Prat Vermell;41.352103; 2.139436 
+Sants-Montjuïc;El Poble-sec;41.373611; 2.163333 
+Sants-Montjuïc;Sants;41.383333; 2.15 
+Sants-Montjuïc;Sants-Badal;41.375278; 2.126667 
+Sants-Montjuïc;Montjuïc*;41.364167; 2.160833 
+Sants-Montjuïc;Zona Franca - Port*;41.336667; 2.130278 
+Les Corts;les Corts;41.384167; 2.132778 
+Les Corts;la Maternitat i Sant Ramon;41.384342; 2.122206 
+Les Corts;Pedralbes;41.394722; 2.113056 
+Sarrià-Sant Gervasi;El Putget i Farró;41.405556; 2.145278 
+Sarrià-Sant Gervasi;Sarrià;41.399431; 2.121867 
+Sarrià-Sant Gervasi;Sant Gervasi - la Bonanova;41.406389; 2.133611 
+Sarrià-Sant Gervasi;Sant Gervasi - Galvany;41.396667; 2.143889 
+Sarrià-Sant Gervasi;les Tres Torres;41.398611; 2.131111 
+Sarrià-Sant Gervasi;Vallvidrera, el Tibidabo i les Planes;41.416667; 2.094722 
+Gràcia;Vila de Gràcia;41.404; 2.1559 
+Gràcia;el Camp d'en Grassot i Gràcia Nova;41.406089; 2.167458 
+Gràcia;la Salut;41.412478; 2.151431 
+Gràcia;el Coll;41.4175; 2.1487
+Gràcia;Vallcarca i els Penitents.;41.412778; 2.143056 
+Horta-Guinardó;El Baix Guinardó;41.409228; 2.166922 
+Horta-Guinardó;El Guinardó;41.420556; 2.167394 
+Horta-Guinardó;Can Baró;41.417853; 2.161044 
+Horta-Guinardó;El Carmel;41.418336; 2.154436 
+Horta-Guinardó;la Font d'en Fargues;41.424917; 2.165528 
+Horta-Guinardó;Horta;41.429503; 2.1601 
+Horta-Guinardó;la Clota;41.429444; 2.153611 
+Horta-Guinardó;Montbau;41.430925; 2.142967 
+Horta-Guinardó;Sant Genís dels Agudells;41.428506; 2.132547 
+Horta-Guinardó;la Teixonera;41.423131; 2.145853 
+Horta-Guinardó;La Vall d'Hebron.;41.428922; 2.143792 
+Nou Barris;Can Peguera;41.436161; 2.171344 
+Nou Barris;Canyelles;41.446264; 2.173144 
+Nou Barris;Ciutat Meridiana;41.460914; 2.174433 
+Nou Barris;La Guineueta;41.441342; 2.171986 
+Nou Barris;Porta;41.43465; 2.174947 
+Nou Barris;La Prosperitat;41.442661; 2.181686 
+Nou Barris;les Roquetes;41.448644; 2.172031 
+Nou Barris;Torre Baró;41.451797; 2.178553 
+Nou Barris;la Trinitat Nova;41.448581; 2.185247 
+Nou Barris;El Turó de la Peira;41.433008; 2.165808 
+Nou Barris;Vallbona;41.462331; 2.182908 
+Nou Barris;Verdum;41.442611; 2.1754 
+Nou Barris;Vilapicina i la Torre Llobeta;41.428761; 2.170872 
+Sant Andreu;Baró de Viver;41.447906; 2.200742 
+Sant Andreu;Bon Pastor;41.432778; 2.206944 
+Sant Andreu;El Congrés i els Indians;41.425881; 2.180678 
+Sant Andreu;Navas;41.415744; 2.1869 
+Sant Andreu;Sant Andreu de Palomar;41.43555; 2.190161 
+Sant Andreu;La Sagrera;41.449128; 2.193317 
+Sant Andreu;Trinitat Vella;41.449128; 2.193317 
+Sant Martí;El Besòs i el Maresme;41.419961; 2.216147 
+Sant Martí;el Clot;41.410611; 2.183017 
+Sant Martí;El Camp de l'Arpa del Clot;41.411433; 2.1825 
+Sant Martí;Diagonal Mar i el Front Marítim del Poblenou;41.4096; 2.216306 
+Sant Martí;el Parc i la Llacuna del Poblenou;41.399167; 2.190833 
+Sant Martí;Poblenou;41.399167; 2.203889 
+Sant Martí;Provençals del Poblenou;41.4094; 2.20056 
+Sant Martí;Sant Martí de Provençals;41.417222; 2.198056 
+Sant Martí;La Verneda i la Pau;41.430178; 2.209881 
+Sant Martí;la Vila Olímpica del Poblenou;41.390833; 2.199167 
